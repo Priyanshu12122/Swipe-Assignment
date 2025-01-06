@@ -2,4 +2,10 @@
 <resources>
 
     <style name="Theme.SwipeAssignment" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.MySplashTheme" parent="Theme.SplashScreen">
+        <item name="postSplashScreenTheme">@style/Theme.SwipeAssignment</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+    </style>
+
 </resources>
