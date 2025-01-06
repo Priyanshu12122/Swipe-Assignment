@@ -3,6 +3,7 @@
 ## 📌 Features Implemented
 
 ✔️ Product Listing Screen – Displays all products with search functionality.
+
 ✔️ Add Product Screen – Allows users to enter a product name, type, price, tax, and upload an image.
 ✔️ Offline Support – Products added offline are saved locally and synced automatically when online.
 ✔️ Background Syncing – Uses WorkManager to sync offline data every 30 minutes.
