@@ -48,7 +48,7 @@ Ensures data consistency by deleting items from database once they are uploaded.
 
 ### Clone the Repository
 
-git clone https://github.com/Priyanshu12122/swipeassignment.git
+git clone https://github.com/Priyanshu12122/Swipe-Assignment.git
 
 ## 👨‍💻 About Me
 
